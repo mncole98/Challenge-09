@@ -1,4 +1,4 @@
-# Test Title
+# Test Title: The Sequel
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
 
@@ -13,15 +13,15 @@
 
   ## [Description](#table-of-contents)
 
-  Test problem
+  Allows us to create a readme file from the command line.
 
   ## [Installation](#table-of-contents)
 
-  test instructions for installation
+  test Installation Instructions
 
   ## [Usage](#table-of-contents)
 
-  test instructions for use
+  test instructions
 
   
     ## [License](#table-of-contents)
@@ -31,18 +31,18 @@
 
   ## [Contributing](#table-of-contents)
 
-  test guidelines
+  Test contributing guidelines.
 
   ## [Tests](#table-of-contents)
 
-  test testing instructions
+  Test instructions
 
 
   ## [Contact](#table-of-contents)
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/test username)
+  [GitHub](https://github.com/testgithubusername)
 
   [Email: testemail@gmail.com](mailto: testemail@gmail.com)
 
